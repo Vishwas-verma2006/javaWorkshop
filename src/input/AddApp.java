@@ -12,7 +12,7 @@ public static void main(String[] args) {
 		
 		
 		
-		
+		sc.close();
 //		byte f=sc.nextByte();
 //		short s=sc.nextShort();
 //		int i=sc.nextInt();

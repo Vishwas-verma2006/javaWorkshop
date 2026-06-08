@@ -19,5 +19,7 @@ public class ScannerEx {
 		System.out.println("Enter a Charaacter");
 		char c=sc.next().charAt(0);
 		System.out.println(s);
+		
+		sc.close();
 	}
 }
