@@ -1,7 +1,0 @@
-INDEX VERSION 1.134+C:\Users\INDIA TECHNOLOGY\codeOfWar\javaWork\.metadata\.plugins\org.eclipse.jdt.core
-2852806887.index
-1865797976.index
-1443617369.index
-1769052978.index
-2772189863.index
-1534395039.index
