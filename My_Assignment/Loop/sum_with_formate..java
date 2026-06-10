@@ -1,4 +1,4 @@
-public class Main
+public class sum_with_formate
 {
 	
 	public static void main(String[] args) {
