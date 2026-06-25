@@ -1,136 +1,371 @@
-# Java Workshop
+# ☕ Java Workshop
 
-A repository documenting my Java learning journey from fundamentals to problem-solving through hands-on coding exercises, assignments, and practice programs.
+> A comprehensive repository documenting my Java learning journey from core fundamentals to Object-Oriented Programming through hands-on coding, assignments, practice programs, and problem-solving.
 
-## Topics Covered
+---
 
-### Java Fundamentals
+## 📖 About
 
-* Introduction to Java
-* JDK, JRE & JVM
-* Java Program Structure
-* Tokens & Keywords
-* Variables & Data Types
-* Literals
+This repository contains all the Java programs, assignments, and practice exercises completed during my Java learning journey. It is organized topic-wise, making it easy to understand the progression from basic concepts to advanced Object-Oriented Programming.
 
-### Input / Output
+The primary goal of this repository is to build strong Java fundamentals before moving towards advanced Java development using Collections, Exception Handling, File Handling, JDBC, Multithreading, and Spring Boot.
 
-* Scanner Class
-* User Input Handling
-* Console Output
+---
 
-### Operators
+# 🚀 Topics Covered
 
-* Arithmetic Operators
-* Relational Operators
-* Logical Operators
-* Bitwise Operators
-* Assignment Operators
-* Conditional (Ternary) Operator
-* Increment & Decrement Operators
-* Type Casting
+## 📌 Java Fundamentals
 
-### Decision Making
+- Introduction to Java
+- History of Java
+- Features of Java
+- JDK, JRE & JVM
+- Java Program Structure
+- Compilation & Execution Process
+- Tokens
+- Keywords
+- Identifiers
+- Variables
+- Data Types
+- Literals
+- Type Casting
 
-* if Statement
-* if-else Statement
-* else-if Ladder
-* Nested if-else
-* Switch Case
+---
 
-### Loops
+## ⌨️ Input / Output
 
-* for Loop
-* while Loop
-* do-while Loop
-* Nested Loops
+- Scanner Class
+- Buffered Input
+- Console Output
+- Formatted Output
 
-### Loop Control Statements
+---
 
-* break
-* continue
+## ➕ Operators
 
-### Functions / Methods
+- Arithmetic Operators
+- Unary Operators
+- Relational Operators
+- Logical Operators
+- Bitwise Operators
+- Assignment Operators
+- Conditional (Ternary) Operator
+- Increment & Decrement Operators
 
-* Method Declaration
-* Method Calling
-* Parameters & Arguments
-* Return Values
-* Recursive Functions
+---
 
-### Problem Solving Programs
+## 🔀 Decision Making
 
-#### Decision Making Problems
+- if
+- if-else
+- else-if Ladder
+- Nested if
+- Switch Case
+- Enhanced Switch
 
-* Greatest of Numbers
-* Leap Year
-* Vowel / Consonant
-* Uppercase / Lowercase
-* Ternary Operator Based Programs
-* Switch Based Calculations
+---
 
-#### Loop Problems
+## 🔁 Loops
 
-* Factorial
-* Fibonacci Series
-* Tribonacci Series
-* Prime Numbers
-* Armstrong Numbers
-* Palindrome Numbers
-* Reverse Numbers
-* Sum & Product of Digits
-* Harmonic Series
-* Arithmetic Progression (AP)
-* Geometric Progression (GP)
-* LCM & GCD
-* Factors of a Number
+- for Loop
+- while Loop
+- do-while Loop
+- Nested Loops
 
-#### Pattern Programs
+---
 
-* Floyd's Triangle
-* Pascal's Triangle
+## ⏹️ Loop Control Statements
 
-#### Function & Recursion Problems
+- break
+- continue
 
-* Sum of Numbers
-* Prime Check
-* Armstrong Check
-* Reverse Number
-* Count Digits
-* Recursive Factorial
-* Recursive Sum
-* Recursive Fibonacci
-* Recursive String Reverse
-* Recursive Palindrome Check
+---
 
-## Repository Structure
+## ⚙️ Methods / Functions
+
+- Method Declaration
+- Method Calling
+- Parameters
+- Arguments
+- Return Type
+- Method Overloading
+- Recursive Functions
+
+---
+
+# 📦 Object-Oriented Programming (OOP)
+
+## 🏗️ Classes & Objects
+
+- Class Creation
+- Object Creation
+- Constructors
+- Object Initialization
+
+### Constructors
+
+- Default Constructor
+- Parameterized Constructor
+- Constructor Overloading
+- Copy Constructor Concept
+
+### Static Keyword
+
+- Static Variables
+- Static Methods
+- Static Blocks
+
+### Initialization Blocks
+
+- Instance Initialization Block
+- Static Initialization Block
+
+---
+
+## 🧬 Inheritance
+
+- Single Inheritance
+- Multilevel Inheritance
+- Hierarchical Inheritance
+- Constructor Chaining
+- super Keyword
+
+---
+
+## 🎭 Polymorphism
+
+- Method Overloading
+- Method Overriding
+- Runtime Polymorphism
+- Dynamic Method Dispatch
+
+---
+
+## 📄 Interface & Final
+
+### Interface
+
+- Interface Basics
+- Multiple Inheritance using Interface
+- Default Methods
+- Static Methods
+
+### Final Keyword
+
+- Final Variable
+- Final Method
+- Final Class
+
+---
+
+## 🧠 Lambda Expressions
+
+- Functional Interfaces
+- Lambda Syntax
+- Lambda Expressions Examples
+
+---
+
+# 📚 Arrays
+
+- One Dimensional Array
+- Two Dimensional Array
+- Array Traversal
+- Searching
+- Basic Array Problems
+
+---
+
+# 🔤 Strings
+
+- String Class
+- String Methods
+- String Comparison
+- StringBuilder
+- StringBuffer
+- Character Manipulation
+
+---
+
+# 💻 Practice Programs
+
+## Decision Making
+
+- Greatest of Three Numbers
+- Positive / Negative
+- Even / Odd
+- Leap Year
+- Vowel / Consonant
+- Uppercase / Lowercase
+- Calculator
+- Switch Based Programs
+
+---
+
+## Loop Programs
+
+- Factorial
+- Fibonacci Series
+- Tribonacci Series
+- Prime Numbers
+- Armstrong Number
+- Palindrome Number
+- Reverse Number
+- Sum of Digits
+- Product of Digits
+- Count Digits
+- GCD
+- LCM
+- Factors
+- Perfect Number
+- Strong Number
+- Harmonic Series
+- AP Series
+- GP Series
+
+---
+
+## Pattern Programs
+
+- Star Patterns
+- Number Patterns
+- Floyd's Triangle
+- Pascal's Triangle
+
+---
+
+## Function Programs
+
+- Prime Check
+- Armstrong Check
+- Palindrome Check
+- Reverse Number
+- Count Digits
+- Recursive Factorial
+- Recursive Fibonacci
+- Recursive Sum
+- Recursive String Reverse
+- Recursive Palindrome
+
+---
+
+# 📂 Repository Structure
 
 ```text
-BreakContinue/
-DecisionAssignment/
-DecisionMaking/
-FunctionAssignment/
-Functions/
-InputOutput/
-June10ExQues/
-Literals/
-LoopAssAdvance/
-LoopAssignmentBasic/
-Loops/
-OperatorAssignment/
-Operators/
-SwitchCase/
+Java-Workshop/
+│
+├── Array/
+├── BreakContinue/
+├── ClassObj/
+├── ClassObjAss/
+├── Constructor/
+├── DecisionAssignment/
+├── DecisionMaking/
+├── FunctionAssignment/
+├── Functions/
+├── Inheritance/
+├── InitializeBlock/
+├── InputOutput/
+├── InterfaceFinal/
+├── June10ExQues/
+├── Lambda/
+├── Literals/
+├── LoopAssAdvance/
+├── LoopAssignmentBasic/
+├── Loops/
+├── OperatorAssignment/
+├── Operators/
+├── Polymorphism/
+├── Static/
+├── String/
+├── SwitchCase/
+│
+├── readme-assets/
+│   └── workspaceSS.png
+│
+└── README.md
 ```
 
-## Development Environment
+---
 
-* Java
-* Eclipse IDE
+# 🛠️ Technologies Used
 
-## Workspace
+- Java
+- Eclipse IDE
+- Git
+- GitHub
 
-![Workspace Screenshot](readme-assets/workspaceSS.png)
+---
 
-## Goal
+# 📸 Workspace
 
-The purpose of this repository is to build strong Java fundamentals through consistent practice, assignments, and problem-solving before moving to advanced topics such as Object-Oriented Programming, Collections Framework, Exception Handling, File Handling, JDBC, and Development Frameworks.
+> Repository workspace in Eclipse IDE
+
+<p align="center">
+  <img src="readme-assets/xyz.png" alt="Workspace Screenshot" width="90%">
+</p>
+
+---
+
+# 🎯 Learning Roadmap
+
+### ✅ Completed
+
+- Java Fundamentals
+- Input / Output
+- Operators
+- Decision Making
+- Loops
+- Methods
+- Arrays
+- Strings
+- Constructors
+- Static
+- Initialization Blocks
+- Classes & Objects
+- Inheritance
+- Polymorphism
+- Interfaces
+- Lambda Expressions
+
+### 🚀 Next Topics
+
+- Exception Handling
+- Collections Framework
+- File Handling
+- Multithreading
+- Generics
+- Wrapper Classes
+- Java I/O
+- JDBC
+- Stream API
+- Java 8 Features
+- Networking
+- Spring Boot
+
+---
+
+# 📈 Repository Goals
+
+- Build strong Java fundamentals
+- Practice clean coding
+- Improve problem-solving skills
+- Master Object-Oriented Programming
+- Prepare for technical interviews
+- Build a solid foundation for backend development
+
+---
+
+# ⭐ Support
+
+If you find this repository helpful, consider giving it a **⭐ Star** on GitHub. It motivates me to continue learning and sharing my progress.
+
+---
+
+## 👨‍💻 Author
+
+**Harsh Barnawa**
+
+B.Tech Computer Science Student
+
+Learning • Building • Growing 🚀
