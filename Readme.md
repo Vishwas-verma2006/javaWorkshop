@@ -345,27 +345,6 @@ Java-Workshop/
 
 ---
 
-# 📈 Repository Goals
 
-- Build strong Java fundamentals
-- Practice clean coding
-- Improve problem-solving skills
-- Master Object-Oriented Programming
-- Prepare for technical interviews
-- Build a solid foundation for backend development
 
----
 
-# ⭐ Support
-
-If you find this repository helpful, consider giving it a **⭐ Star** on GitHub. It motivates me to continue learning and sharing my progress.
-
----
-
-## 👨‍💻 Author
-
-**Harsh Barnawa**
-
-B.Tech Computer Science Student
-
-Learning • Building • Growing 🚀
